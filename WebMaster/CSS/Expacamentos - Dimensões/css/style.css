@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+	height: 100%;
+}
+
+
+.artigo {
+	width: 80%;
+	height: auto;
+	background-color: rgb(200, 200, 200);
+	text-align: center;
+}
+
+.artigo h3{
+	color:rgb(79, 162, 183);
+	font-size: 25px;
+	font-family: 'arial';
+	font-weight: bold;
+	font-style: normal;
+	line-height: 40px; 
+}
+

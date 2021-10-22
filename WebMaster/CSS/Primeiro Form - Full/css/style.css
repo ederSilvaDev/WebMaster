@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: underline;
+}
+
+.needs-validation{
+	width: 900px;
+	background-color: green;
+	margin: 20px auto;
+	text-align: center;
+}

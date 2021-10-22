@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.artigo, .artigo2{
+	width: 960px;
+	background-color: rgb(200, 200, 200);
+	margin: 40px auto;
+	text-align: center;
+	font-style: italic;
+}
+
+.artigo2{
+	width: 960px;
+	margin: 40px auto;
+	text-align: center;
+}
+
+.artigo h3{
+	color:rgb(79, 162, 183);
+	font-size: 25px;
+	font-family: 'arial';
+	font-weight: bold;
+	font-style: normal;
+	line-height: 40px; 
+}
+
+.artigo2 h3{
+	color:hsl(192, 42%, 51%);
+}
+
+.artigo2 p{
+	line-height: 40px;
+	margin-top: 12px;
+	font-family: 'tahoma';
+}
+

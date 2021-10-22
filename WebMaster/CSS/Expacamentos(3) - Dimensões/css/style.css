@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+	height: 100%;
+}
+
+
+.center{
+
+	box-sizing: content-box;/*responsivo*/
+	
+	width: 1280px;/*largura*/
+	margin: 0 auto;
+	
+	padding-left: 30px;/*espaçamento interno*/
+	background-color: gray;
+
+	padding:30px 30px 30px 30px; /*margens de preechimento*/ 
+	/*padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;*/
+}
+
+.artigo > p{
+	background-color: blue;
+}
+
+
+.artigo{
+	box-sizing: border-box;
+	border-style: dotted;
+	border-width: 3px;
+	border-color: rgb(255,0,0);
+
+	vertical-align: top;
+	margin: 10px 15px;
+	display: inline-block;
+	width: 600px;
+
+}
